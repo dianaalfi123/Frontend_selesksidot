@@ -1,0 +1,134 @@
+body{
+	margin: 0 auto;
+    padding: 0 auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    list-style:none;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+/* Navigasi */
+.navbar{
+	position: absolute!important;
+	margin-top: 30px;
+}
+.nav-link{
+	margin-left: 27px;
+	color: #f5f5f5 !important;
+	font-size: 12px !important;
+}
+.ml-auto {
+    left: auto !important;
+    right: 0px;
+}
+.navbar-brand{
+	padding-bottom: 0!important;
+	padding-top: 0!important;
+	margin-left: 0px;
+
+
+}
+
+
+/* Section Header */
+
+.header-bg{
+	background-image: url(../img/background_header.png);
+	background-size: cover;
+	height: 1251px;
+	
+}
+.header-left{
+	margin-top: 180px;
+	margin-left: 150px;
+}
+.header-right{
+	margin-top: 270px;
+	margin-right: 1px;
+	margin-left: 40px;
+}
+
+.text{
+	padding-top: 20px;
+	font-size: 11px;
+	color: white;
+}
+.btn-get{
+
+	font-family: arial;
+	border-radius: 4px;
+	height: 35px;
+	font-size: 10px;
+
+	text-align: center;
+	background-color: white;
+}
+.btn-get-l{
+	margin-left: 20px;
+background-color: grey;
+  border: none;
+  color: white;
+ padding-left: 16px;
+ padding-right: 16px;
+  text-align: center;
+  font-size: 12px;
+  opacity: 0.6;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+  height: 35px;
+  border-radius: 10px;
+
+
+}
+.btn-get-n{
+	margin-left: 20px;
+background-color: white;
+  border-radius: 10px;
+  color: black;
+ padding-left: 16px;
+ padding-right: 16px;
+  text-align: center;
+  font-size: 12px;
+  opacity: 0.6;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+  height: 35px;
+  border-radius: 10px;
+
+
+}
+.middle-bg{
+
+	margin-top: 200px;
+	background-image: url(../img/background_middle.png);
+	background-size: cover;
+	height: 1600px;
+	
+}
+
+.footer-bg{
+	margin-top: 1000px;
+	background-image: url(../img/background_bottom.png);
+	background-size: cover;
+	height: 500px;
+}
+
+.con1{
+	width: 1000px;
+	background-color: white;
+	height: 600px;
+	margin-left: 200px;
+	box-shadow: 0px 0px 10px 10px;
+
+	text-align: center;
+	font-family: arial;
+	font-size: 35px;
+	
+}
+
+
